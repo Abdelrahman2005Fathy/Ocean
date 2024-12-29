@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Ocean Project
+
+## نظرة عامة
+
+هذا المشروع هو تطبيق باستخدام **Next.js** و **Tailwind CSS** و **TypeScript**. تم استخدامه لأغراض تعليمية لتعلم كيفية بناء تطبيقات باستخدام هذه التقنيات الحديثة. المشروع يحتوي على واجهة مستخدم استجابة وتصميم مرن باستخدام Tailwind CSS، ويستفيد من مزايا **Next.js** في تحسين الأداء وتوجيه الصفحات.
+
+## المصدر الأصلي
+
+هذا المشروع مستوحى من مشروع **Ocean** الذي تم العثور عليه على GitHub. لم تكن هذه الفكرة من إبداعي الشخصي، بل كانت لأغراض تعليمية وتجريبية فقط.
+
+
+
 ## Getting Started
 
 First, run the development server:
